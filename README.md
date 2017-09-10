@@ -1,0 +1,2 @@
+# IAPractices
+Artificial Inteligence Practices.
