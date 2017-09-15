@@ -1,8 +1,10 @@
+/*Coded By: M.C. María de Jesús Hernández Morales*/
+/*Subject: Inteligencia Artificial*/
+/*Instituto Tecnológico de Celaya (Tecnológico Nacional de México en Celaya)*/
 /*Clase Main*/
+
 package od_5;
-
 /*import com.sun.org.apache.xpath.internal.SourceTree;*/
-
 import java.io.*;
 import java.util.*;
 

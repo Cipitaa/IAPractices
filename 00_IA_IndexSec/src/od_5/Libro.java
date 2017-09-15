@@ -1,4 +1,8 @@
-/**Clase Libro.java*/
+/*Coded By: M.C. María de Jesús Hernández Morales*/
+/*Subject: Inteligencia Artificial*/
+/*Instituto Tecnológico de Celaya (Tecnológico Nacional de México en Celaya)*/
+
+/*Clase Libro.java*/
 
 package od_5;
 
